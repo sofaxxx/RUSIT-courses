@@ -1,2 +1,5 @@
 some text for test
+<<<<<<< HEAD
 another text for text
+=======
+>>>>>>> e7289ca39c67de1c2e9cf860ad0e1b38eb3b4679
