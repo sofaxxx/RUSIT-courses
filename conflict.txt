@@ -1,1 +1,1 @@
-string of text
+js string of text and there's no any conflicts
